@@ -2,18 +2,13 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://www.jy3620.cn/post-sitemap.xml</loc>
-        <lastmod>2019-03-23T11:47:32.595Z</lastmod>
-    </sitemap>
-
-    <sitemap>
         <loc>http://www.jy3620.cn/page-sitemap.xml</loc>
         <lastmod>2019-03-23T12:33:33.189Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://www.jy3620.cn/tag-sitemap.xml</loc>
-        <lastmod>2019-03-23T11:47:32.595Z</lastmod>
+        
     </sitemap>
 
 </sitemapindex>
